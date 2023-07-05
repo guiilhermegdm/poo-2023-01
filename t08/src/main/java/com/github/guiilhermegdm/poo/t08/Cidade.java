@@ -2,14 +2,14 @@ package com.github.guiilhermegdm.poo.t08;
 
 public class Cidade {
 
-    private String nome;
-    private int populacao;
+    private String name;
+    private int population;
 
 
     public Pais pais;
-    public Cidade(String nome, int populacao) {
-        this nome = nome;
-        this.populacao = populacao;
+    public Cidade(String name, int population) {
+        this.name = name;
+        this.population = population;
     }
 
     public Pais getPais() {
@@ -20,19 +20,19 @@ public class Cidade {
         this.pais = pais;
     }
 
-    public int getPopulacao() {
-        return populacao;
+    public int getPopulation() {
+        return population;
     }
 
-    public void setPopulacao(int populacao) {
-        this.populacao = populacao;
+    public void setPopulation(int population) {
+        this.population = population;
     }
 
-    public String ge nome() {
-        return nome;
+    public String getName() {
+        return name;
     }
 
-    public void se nome(String nome) {
-        this nome = nome;
+    public void setName(String name) {
+        this.name = name;
     }
 }
