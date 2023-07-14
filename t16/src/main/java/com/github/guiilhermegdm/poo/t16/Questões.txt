@@ -1,0 +1,9 @@
+Quais os três slides que você considera os mais complexos?
+
+Polimorfismo
+Persistência
+Métodos OO
+
+Quais são suas dúvidas?
+
+Em relação a implementação destes
