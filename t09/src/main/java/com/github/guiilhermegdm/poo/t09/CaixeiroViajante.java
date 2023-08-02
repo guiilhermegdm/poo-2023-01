@@ -17,6 +17,4 @@ public class CaixeiroViajante {
     public ArrayList<Viagem> getViagens() {
         return viagens;
     }
-
-
 }
