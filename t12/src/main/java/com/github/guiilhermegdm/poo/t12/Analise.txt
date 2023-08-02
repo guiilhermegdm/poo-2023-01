@@ -1,2 +1,1 @@
-Como aplicar ordered em outros casos? Ou é usada apenas com arrays
 Existem bibliotecas prontas em Java que facilitam estruturas mais complexas ?
