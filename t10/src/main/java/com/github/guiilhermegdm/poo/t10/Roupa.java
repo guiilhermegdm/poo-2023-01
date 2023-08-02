@@ -21,5 +21,4 @@ public class Roupa extends Objeto {
     public void setTamanho(String tamanho) {
         this.tamanho = tamanho;
     }
-
 }

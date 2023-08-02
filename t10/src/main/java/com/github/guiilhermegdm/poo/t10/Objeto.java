@@ -1,6 +1,5 @@
 package com.github.guiilhermegdm.poo.t10;
 
-
 public class Objeto {
 
     public String objeto;

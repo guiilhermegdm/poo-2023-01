@@ -10,5 +10,4 @@ public class Estudo {
     public void setEscola(String escola) {
         this.escola = escola;
     }
-
 }
