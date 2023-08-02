@@ -14,5 +14,4 @@ public class Aeroporto {
     public List<Operacao> getOperacoes() {
         return operacoes;
     }
-
 }

@@ -14,5 +14,4 @@ public class Sanduiche {
     public List<Item> getItens() {
         return itens;
     }
-
 }

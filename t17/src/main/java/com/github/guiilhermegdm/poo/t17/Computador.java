@@ -32,5 +32,4 @@ public class Computador {
     public void iniciarComputador(){
         System.out.println("Computador iniciado!");
     }
-
 }
