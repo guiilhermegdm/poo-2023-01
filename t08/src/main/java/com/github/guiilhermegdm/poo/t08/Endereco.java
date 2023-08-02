@@ -4,5 +4,4 @@ public class Endereco {
 
     private int CEP;
     private String logradouro;
-
 }

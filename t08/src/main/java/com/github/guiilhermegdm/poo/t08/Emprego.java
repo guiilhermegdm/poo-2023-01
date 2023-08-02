@@ -9,6 +9,4 @@ public class Emprego {
         this.salario = salario;
         this.intervaloTempo = intervaloTempo;
     }
-
-
 }

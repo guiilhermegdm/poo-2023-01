@@ -16,5 +16,4 @@ public class Texto {
     public ArrayList<Paragrafo> getParagrafos() {
         return paragrafos;
     }
-
 }

@@ -17,5 +17,4 @@ public class Paragrafo {
     public ArrayList<Sentenca> getSentencas() {
         return sentencas;
     }
-
 }

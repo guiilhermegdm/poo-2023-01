@@ -5,5 +5,4 @@ public class Escola {
     private String nome;
     private int capacidade;
     private Endereco endereco;
-
 }

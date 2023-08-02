@@ -35,5 +35,4 @@ public class Grupo {
     public ArrayList<Usuario> getUsuarios() {
         return usuarios;
     }
-
 }

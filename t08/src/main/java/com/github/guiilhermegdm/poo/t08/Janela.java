@@ -2,7 +2,7 @@ package com.github.guiilhermegdm.poo.t08;
 
 import java.util.ArrayList;
 
-public class Janela{
+public class Janela {
 
     public int id;
     public ArrayList<ElementoInteracao> elementoInteracoes;
