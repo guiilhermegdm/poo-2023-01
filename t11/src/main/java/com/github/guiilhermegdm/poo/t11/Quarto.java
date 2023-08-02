@@ -9,5 +9,4 @@ public class Quarto {
     public ArrayList<Garagem> garagens;
     public ArrayList<Quarto> quartos;
     public ArrayList<Sala> salas;
-
 }
