@@ -12,5 +12,4 @@ public class Pessoa {
     private Pessoa pai;
     private Pessoa mae;
     private String endereco;
-
 }

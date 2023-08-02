@@ -7,6 +7,5 @@ public class Casa {
 
     public static void main(String[] args) {
         Casa c = new Casa();
-
     }
 }

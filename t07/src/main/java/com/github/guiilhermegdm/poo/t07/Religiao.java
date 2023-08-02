@@ -8,6 +8,5 @@ public class Religiao {
 
     public void novoDevoto(Devoto devoto){
         devotos.add(devoto);
-
     }
 }
