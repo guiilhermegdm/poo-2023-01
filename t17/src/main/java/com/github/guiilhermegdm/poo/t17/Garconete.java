@@ -3,12 +3,12 @@ package com.github.guiilhermegdm.poo.t17;
 import java.util.ArrayList;
 import java.util.List;
 
-public class Garçonete {
+public class Garconete {
 
     private String nome;
     private List<Pedido> pedidos;
 
-    public Garçonete(String nome) {
+    public Garconete(String nome) {
         this.nome = nome;
         this.pedidos = new ArrayList<>();
     }
