@@ -1,4 +1,2 @@
-i. Quais os três slides que você considera os mais complexos?
-Os de implementação UML
-ii. Quais são suas dúvidas?
-Como melhorar a abstração da implementação UML
+i. Os de implementação UML
+ii. Como melhorar a abstração da implementação UML
