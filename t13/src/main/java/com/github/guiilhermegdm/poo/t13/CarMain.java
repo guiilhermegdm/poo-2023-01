@@ -19,6 +19,5 @@ public class CarMain {
 
         mechanic1.editMechanicName("Roberval");
         System.out.println("Correção no nome do mecânico responsável: " + mechanic1.getMechanicName());
-
     }
 }
